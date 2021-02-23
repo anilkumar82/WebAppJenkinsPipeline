@@ -15,7 +15,7 @@ namespace GitHub_WebApp1
     {
         public Startup(IConfiguration configuration)
         {
-            //GitHub Jenkins project - V5 build
+            //GitHub Jenkins project - V6 build
             Configuration = configuration;
         }
 
